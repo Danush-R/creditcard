@@ -1,4 +1,4 @@
-# creditcard
+# credit card fraud detection - machine learning 
 dataset:https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 The dataset contains transactions made by credit cards in September 2013 by European cardholders.
